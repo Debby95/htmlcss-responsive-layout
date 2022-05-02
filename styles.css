@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 980px;
+    margin: 0 auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    /*debug*/
+    border: 1px dashed red;
+    background-color: aquamarine;
+    height: 300px;
+}
+
+.section {
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    /*debug*/
+    height: 400px;
+    background-color: darksalmon;
+    border: 1px dashed blue;
+}
